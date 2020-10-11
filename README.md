@@ -7,7 +7,7 @@ This project is a part of HELLO-FOSS: Celebration of Open Source by the Web and 
 
 You are expected to have a decent understanding of basic algorithms and data structures to contribute to this project. You are free to google and search on the data structures, however the implementation must be yours. We will be implementing these data structures in Python instead of C++ to ensure flexibility and easy verification of the PRs. 
 
-Each folder in this repository contains an interface python file that specifies the class that your submission must implement. You are reqiured to implement the necessary methods mentioned in the class. You are free to add or create additional functions or methods in your submission. The input file which your program needs to run on is uploaded as `test.in` on each directory. This will be a large file and your program should run in under a minute on this file. The sample output `test.out` will also be given and your output must match with this sample output. Please ensure to implement efficient algoritms.
+Each folder in this repository contains an interface python file that specifies the class that your submission must implement. You are reqiured to implement the necessary methods mentioned in the class. You are free to add or create additional functions or methods in your submission. The input file which your program needs to run on is uploaded as `test.in` on each directory. This will be a large file and your program should run in under a minute on this file. The output should be correct. Please ensure to implement efficient algoritms.
 
 Many of the algorithms could be implemented simply using the python standard library. Such PRs will not be accepted. You are free to use the basic features of the library but anything that trivialises the implementation is not allowed. 
 
@@ -22,7 +22,7 @@ The following data structures need to be implemented. Please refer to the README
 6. Shortest Path in a Graph using Floyd Warshall/Djkstra/Bellman Ford algorithm
 
 
-Please note that we are not opening issues for this repository since there can be multiple people submitting PRs for a particular DS. Your submission must consist of a file named as `yourgithubusername.py` in the folder corresponding to that DS that reads `test.in` and outputs to the terminal. This output should match `test.out`.
+Please note that we are not opening issues for this repository since there can be multiple people submitting PRs for a particular DS. Your submission must consist of a file named as `yourgithubusername.py` in the folder corresponding to that DS that reads `test.in` and outputs to the terminal.
 
 Join our [Discord](https://discord.com/invite/mzhyrvS) for discussing your doubts.
 ***
